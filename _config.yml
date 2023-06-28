@@ -1,0 +1,4 @@
+theme: minima
+header_pages:
+  - cltc/index.md
+  
