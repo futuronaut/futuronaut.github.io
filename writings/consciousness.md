@@ -1,3 +1,7 @@
+---
+title: Consciousness
+---
+
 Consciousness is not an addition to process but its infolding: not the signal, but the signal under recursive captivity, caught in the circuit of its own return. Feedforward transit is metabolically austere; it discriminates, routes, dissipates. Nothing lingers there except effect. Experience begins where propagation ceases to be linear expenditure and becomes reverberant retention, where a percept is no longer merely triggered but re-entered, reinscribed, folded back through the architecture that it itself excites. Reverberation gives the percept temporal body; recursion confers density upon what would otherwise vanish into pure function.
 
 Meaning enters here, but not as annotation. A mark does not mean by containing sense; it means by being caught in a regime that can reactivate it, differentiate it, suffer its consequences. So too with perception. “Red” is not a private pigment hidden in the wetware, nor a semantic halo draped over mechanism, but a determinate attractor in a closed economy of excitation: a state whose significance is immanent to the way it solicits the next state, and the next, and the return of the previous. The system does not inspect its state from outside; it is that state’s downstream reverberation through a self-interpreting topology. Innerness is not a place but a regime of re-entrant significance.
