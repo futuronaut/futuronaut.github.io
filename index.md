@@ -1,5 +1,5 @@
 
-## Writings
+# Writings
 
 [Test](writings/test.md)
 
