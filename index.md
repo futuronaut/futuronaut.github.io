@@ -2,5 +2,5 @@
 title: Writings
 ---
 
-[Test](writings/test.md)
+[The Future of Human Life](writings/futureofhumanlife.md)
 
